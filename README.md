@@ -1,2 +1,2 @@
 # jofarnold.github.com
-My site
+My site: [jofarnold.com](https://jofarnold.com)
